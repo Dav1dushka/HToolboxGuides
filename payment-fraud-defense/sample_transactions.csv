@@ -1,0 +1,8 @@
+transaction_id,amount,currency,billing_country,ip_country,attempts_last_10m,account_age_days,avs_match,cvc_match,synthetic_data
+SYN-1001,24.99,EUR,CZ,CZ,1,420,true,true,true
+SYN-1002,720.00,EUR,CZ,NL,2,120,true,true,true
+SYN-1003,49.00,EUR,DE,DE,5,0,true,false,true
+SYN-1004,12.50,EUR,PL,PL,3,4,false,true,true
+SYN-1005,890.00,EUR,FR,US,6,0,false,false,true
+SYN-1006,19.95,EUR,SK,SK,1,30,true,true,true
+SYN-1007,180.00,EUR,AT,AT,4,2,true,false,true
